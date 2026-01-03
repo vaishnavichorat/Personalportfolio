@@ -16,9 +16,6 @@ This project showcases my skills, projects, and contact information in a clean a
 - CSS
 - JavaScript
 
-Example:
-https://your-username.github.io/Personal-portfolio/
-
 ## 📁 How to Run Locally
 1. Download or clone the repository  
 2. Open the project folder  
